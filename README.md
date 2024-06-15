@@ -1,9 +1,9 @@
 ## TicTacToe in Java
 This is a Simple TicTacToe game implemented in Java.
 
-(images/base.png)
+![snaps](images/base.png)
 
-(images/win.png)
+![snaps](images/win.png)
 
 ## Dependencies
 
